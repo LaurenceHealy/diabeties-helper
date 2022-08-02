@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "DiabetiesProgram/1.0.0": {
+        "runtime": {
+          "DiabetiesProgram.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "DiabetiesProgram/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

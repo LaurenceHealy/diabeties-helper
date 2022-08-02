@@ -1,0 +1,15 @@
+C:\Users\laure\Desktop\MSSA Assignements\Project One\MathTest2\MathTest2\obj\Debug\net6.0\DiabetiesProgram.csproj.AssemblyReference.cache
+C:\Users\laure\Desktop\MSSA Assignements\Project One\MathTest2\MathTest2\obj\Debug\net6.0\DiabetiesProgram.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\laure\Desktop\MSSA Assignements\Project One\MathTest2\MathTest2\obj\Debug\net6.0\DiabetiesProgram.AssemblyInfoInputs.cache
+C:\Users\laure\Desktop\MSSA Assignements\Project One\MathTest2\MathTest2\obj\Debug\net6.0\DiabetiesProgram.AssemblyInfo.cs
+C:\Users\laure\Desktop\MSSA Assignements\Project One\MathTest2\MathTest2\obj\Debug\net6.0\DiabetiesProgram.csproj.CoreCompileInputs.cache
+C:\Users\laure\Desktop\MSSA Assignements\Project One\MathTest2\MathTest2\bin\Debug\net6.0\DiabetiesProgram.exe
+C:\Users\laure\Desktop\MSSA Assignements\Project One\MathTest2\MathTest2\bin\Debug\net6.0\DiabetiesProgram.deps.json
+C:\Users\laure\Desktop\MSSA Assignements\Project One\MathTest2\MathTest2\bin\Debug\net6.0\DiabetiesProgram.runtimeconfig.json
+C:\Users\laure\Desktop\MSSA Assignements\Project One\MathTest2\MathTest2\bin\Debug\net6.0\DiabetiesProgram.dll
+C:\Users\laure\Desktop\MSSA Assignements\Project One\MathTest2\MathTest2\bin\Debug\net6.0\DiabetiesProgram.pdb
+C:\Users\laure\Desktop\MSSA Assignements\Project One\MathTest2\MathTest2\obj\Debug\net6.0\DiabetiesProgram.dll
+C:\Users\laure\Desktop\MSSA Assignements\Project One\MathTest2\MathTest2\obj\Debug\net6.0\refint\DiabetiesProgram.dll
+C:\Users\laure\Desktop\MSSA Assignements\Project One\MathTest2\MathTest2\obj\Debug\net6.0\DiabetiesProgram.pdb
+C:\Users\laure\Desktop\MSSA Assignements\Project One\MathTest2\MathTest2\obj\Debug\net6.0\DiabetiesProgram.genruntimeconfig.cache
+C:\Users\laure\Desktop\MSSA Assignements\Project One\MathTest2\MathTest2\obj\Debug\net6.0\ref\DiabetiesProgram.dll

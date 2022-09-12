@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\laure\\Desktop\\MSSA Assignements\\Project One\\MathTest2\\MathTest2\\DiabetiesProgram.csproj",
+      "projectUniqueName": "C:\\Users\\laure\\Desktop\\mssa\\MSSA Assignements\\Project One\\MathTest2\\MathTest2\\DiabetiesProgram.csproj",
       "projectName": "DiabetiesProgram",
-      "projectPath": "C:\\Users\\laure\\Desktop\\MSSA Assignements\\Project One\\MathTest2\\MathTest2\\DiabetiesProgram.csproj",
+      "projectPath": "C:\\Users\\laure\\Desktop\\mssa\\MSSA Assignements\\Project One\\MathTest2\\MathTest2\\DiabetiesProgram.csproj",
       "packagesPath": "C:\\Users\\laure\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\laure\\Desktop\\MSSA Assignements\\Project One\\MathTest2\\MathTest2\\obj\\",
+      "outputPath": "C:\\Users\\laure\\Desktop\\mssa\\MSSA Assignements\\Project One\\MathTest2\\MathTest2\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -33,6 +33,7 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "C:\\Program Files\\dotnet\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -56,7 +57,8 @@
           "net47",
           "net471",
           "net472",
-          "net48"
+          "net48",
+          "net481"
         ],
         "assetTargetFallback": true,
         "warn": true,
@@ -65,7 +67,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.302\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
       }
     }
   }

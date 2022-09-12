@@ -87,10 +87,6 @@ namespace DiabetiesProgram
             string lowRestName = restName.ToLower();
             if (!File.Exists($"{fileDir}{lowRestName}"))
             {
-                //Console.Clear();
-                //Console.WriteLine("That resturaunt does not exist.  Please reenter resturaunt name.");
-                //SelectMenuToAddToo();
-
                 Console.Clear();
                 Console.WriteLine($"That Resturaunt doesn't exist. Would you like to create it? Type yes or no");
                 string sel = Console.ReadLine();
